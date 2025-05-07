@@ -22,18 +22,18 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
 
-features:
-  - navigation.instant
-  - navigation.instant.progress
-  - navigation.instant.preview
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.expand
-  - navigation.sections
-  - navigation.indexes
-  - toc.integrate
 
 nav:
   - Home: index.md
